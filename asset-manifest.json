@@ -1,15 +1,15 @@
 {
-  "main.css": "/faceRecognition/static/css/main.0d5bfa92.chunk.css",
-  "main.js": "/faceRecognition/static/js/main.86642bb7.chunk.js",
-  "main.js.map": "/faceRecognition/static/js/main.86642bb7.chunk.js.map",
-  "runtime~main.js": "/faceRecognition/static/js/runtime~main.20b69c4e.js",
-  "runtime~main.js.map": "/faceRecognition/static/js/runtime~main.20b69c4e.js.map",
-  "static/css/2.8fef475e.chunk.css": "/faceRecognition/static/css/2.8fef475e.chunk.css",
-  "static/js/2.5d23cd8b.chunk.js": "/faceRecognition/static/js/2.5d23cd8b.chunk.js",
-  "static/js/2.5d23cd8b.chunk.js.map": "/faceRecognition/static/js/2.5d23cd8b.chunk.js.map",
-  "index.html": "/faceRecognition/index.html",
-  "precache-manifest.97f7c4191607cefb870944dc3982e67d.js": "/faceRecognition/precache-manifest.97f7c4191607cefb870944dc3982e67d.js",
-  "service-worker.js": "/faceRecognition/service-worker.js",
-  "static/css/2.8fef475e.chunk.css.map": "/faceRecognition/static/css/2.8fef475e.chunk.css.map",
-  "static/css/main.0d5bfa92.chunk.css.map": "/faceRecognition/static/css/main.0d5bfa92.chunk.css.map"
+  "main.css": "/FaceRecognitionApp/static/css/main.0d5bfa92.chunk.css",
+  "main.js": "/FaceRecognitionApp/static/js/main.c53e7b0d.chunk.js",
+  "main.js.map": "/FaceRecognitionApp/static/js/main.c53e7b0d.chunk.js.map",
+  "runtime~main.js": "/FaceRecognitionApp/static/js/runtime~main.1a0d8234.js",
+  "runtime~main.js.map": "/FaceRecognitionApp/static/js/runtime~main.1a0d8234.js.map",
+  "static/css/2.8fef475e.chunk.css": "/FaceRecognitionApp/static/css/2.8fef475e.chunk.css",
+  "static/js/2.782cce84.chunk.js": "/FaceRecognitionApp/static/js/2.782cce84.chunk.js",
+  "static/js/2.782cce84.chunk.js.map": "/FaceRecognitionApp/static/js/2.782cce84.chunk.js.map",
+  "index.html": "/FaceRecognitionApp/index.html",
+  "precache-manifest.5583f6c5e1610fc8e122b8253b6e411d.js": "/FaceRecognitionApp/precache-manifest.5583f6c5e1610fc8e122b8253b6e411d.js",
+  "service-worker.js": "/FaceRecognitionApp/service-worker.js",
+  "static/css/2.8fef475e.chunk.css.map": "/FaceRecognitionApp/static/css/2.8fef475e.chunk.css.map",
+  "static/css/main.0d5bfa92.chunk.css.map": "/FaceRecognitionApp/static/css/main.0d5bfa92.chunk.css.map"
 }

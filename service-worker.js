@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/faceRecognition/precache-manifest.97f7c4191607cefb870944dc3982e67d.js"
+  "/FaceRecognitionApp/precache-manifest.5583f6c5e1610fc8e122b8253b6e411d.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/faceRecognition/index.html", {
+workbox.routing.registerNavigationRoute("/FaceRecognitionApp/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
