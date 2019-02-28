@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "//https:umarislam12.github.io/faceRecognitionApp/precache-manifest.b69ff22c74d7f9e3f65bedc2bfd967ab.js"
+  "/faceRecognition/precache-manifest.97f7c4191607cefb870944dc3982e67d.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("//https:umarislam12.github.io/faceRecognitionApp/index.html", {
+workbox.routing.registerNavigationRoute("/faceRecognition/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
